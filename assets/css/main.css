@@ -179,21 +179,28 @@ body {
   justify-content: center;
 }
 
-.item-publicity-small h4{
+.item-publicity-small h4 {
   font-size: 17px;
   font-family: Elena, Arial, Helvetica, sans-serif;
 }
 
-.item-publicity-small h2{
+.item-publicity-small h2 {
   font-size: 47px;
 }
 
-.item-publicity-small p{
+.item-publicity-small p {
   font-size: 22px;
   font-family: Elena, Arial, Helvetica, sans-serif;
 }
 
-.item-publicity-small input{}
+.item-publicity-small button {
+  font-size: 27px;
+  border: 1px solid #fff;
+  color: #000;
+  border-radius: 3px;
+  padding: 15px;
+  margin-top: 20px;
+}
 
 .curated-posts-container {
   display: flex;
@@ -203,8 +210,34 @@ body {
   width: 25%;
   height: 800px;
   border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5% 2% 0 2%;
 }
 
+.curated-posts-articles:hover {
+  -webkit-transform: scale(1.02);
+  transform: scale(1.02);
+}
+  
+.curated-posts-articles h3 {
+  font-size: 30px;
+  padding-bottom: 10%;
+}
+
+.curated-posts-articles ul li a{
+  font-size: 25px;
+  color: #222;
+}
+
+.curated-posts-articles ul li {
+  margin-bottom: 35%;
+}
+
+.curated-posts {
+  list-style-image: url(/5242cdc0f8a0d710a02b6dcdd43ef5002bf5ae89/77199/images/bullet.svg);
+}
 .smashing-newsletter {
   height: 990px;
   border: 1px solid black;
@@ -267,8 +300,8 @@ body {
   border-radius: 5px;
 }
 
-.nav-search{
-    padding-left: 30%;
+.nav-search {
+  padding-left: 30%;
 }
 
 .article-links {
@@ -276,8 +309,7 @@ body {
   height: 130px;
 }
 
-
-.grid-community-links-items{
+.grid-community-links-items {
   display: flex;
   justify-content: flex-start;
   padding-left: 5%;
@@ -285,36 +317,36 @@ body {
   box-sizing: border-box;
 }
 
-.community-link-picture{
+.community-link-picture {
   flex-basis: 76px;
   height: 76px;
   border-radius: 5px;
   margin-right: 25px;
 }
 
-.community-link-text{
+.community-link-text {
   flex-basis: 85%;
 }
 
-.community-link-text h4{
+.community-link-text h4 {
   font-size: 21px;
 }
-.community-link-text h2{
+.community-link-text h2 {
   font-size: 35px;
 }
-.community-link-text p{
+.community-link-text p {
   font-size: 20px;
   font-family: Elena, Arial, Helvetica, sans-serif;
   margin-top: 15px;
 }
 
-.publicity-link-picture{
+.publicity-link-picture {
   flex-basis: 35%;
   height: 300px;
   border-radius: 5px;
   margin-right: 25px;
 }
 
-.publicity-link-text{
+.publicity-link-text {
   flex-basis: 65%;
 }
