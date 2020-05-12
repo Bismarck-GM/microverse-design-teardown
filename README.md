@@ -1,10 +1,8 @@
-# 
+#
 
-> 
+>
 
 ![screenshot](img/.png)
-
-
 
 ## Built With
 
@@ -15,6 +13,13 @@
 
 [Live Demo Link]()
 
+## IMPORTANT - Resolution
+
+This page was made using Full-HD resolution - 1920 x 1080 pixels.
+
+If you're using a monitor below it please resize with developers tools and also the target web-page of Smashing-Magazine.
+
+They use MediaQueries to perform the layout changes and the use of them wasn't covered in this Project.
 
 ## Authors
 
