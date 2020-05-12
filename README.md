@@ -1,2 +1,45 @@
-# microverse-design-teardown
-This project consists of building a heatmap of the Smashing magazine website
+# 
+
+> 
+
+![screenshot](img/.png)
+
+
+
+## Built With
+
+- HTML,
+- CSS.
+
+## Live Demo
+
+[Live Demo Link]()
+
+
+## Authors
+
+👤 **Gerónimo Morisot**
+
+- Github: [@Bismarck-GM](https://github.com/Bismarck-GM)
+- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
+- Linkedin: [geronimomorisot](https://linkedin.com/in/geronimomorisot)
+
+👤 **Shingirayi Mandebvu**
+
+- Github: [@simandebvu](https://github.com/simandebvu)
+- Twitter: [@simandebvu](https://twitter.com/simandebvu)
+- Linkedin: [simandebvu](https://www.linkedin.com/in/simandebvu/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
