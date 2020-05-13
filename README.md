@@ -2,7 +2,7 @@
 
 >
 
-![screenshot](img/.png)
+[screenshot](assets/img/screenshot.png)
 
 ## Built With
 
