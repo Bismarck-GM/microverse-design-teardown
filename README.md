@@ -1,6 +1,6 @@
-#
+# Smashing-Magazine heat-map project
 
->
+> This project consists of building a heatmap of the Smashing magazine website.
 
 [screenshot](assets/img/screenshot.png)
 
@@ -11,15 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
-
-## IMPORTANT - Resolution
-
-This page was made using Full-HD resolution - 1920 x 1080 pixels.
-
-If you're using a monitor below it please resize with developers tools and also the target web-page of Smashing-Magazine.
-
-They use MediaQueries to perform the layout changes and the use of them wasn't covered in this Project.
+[Live Demo Link](https://raw.githack.com/Bismarck-GM/microverse-design-teardown/development/index.html)
 
 ## Authors
 
