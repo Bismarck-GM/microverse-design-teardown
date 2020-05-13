@@ -2,7 +2,7 @@
 
 > This project consists of building a heatmap of the Smashing magazine website.
 
-[screenshot](assets/img/screenshot.png)
+[screenshot](/assets/img/screenshot.png)
 
 ## Built With
 
