@@ -2,7 +2,7 @@
 
 > This project consists of building a heatmap of the Smashing magazine website.
 
-[screenshot](/assets/img/screenshot.png)
+![screenshot](/assets/img/screenshot.png)
 
 ## Built With
 
@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Bismarck-GM/microverse-design-teardown/development/index.html)
+Click [here](https://raw.githack.com/Bismarck-GM/microverse-design-teardown/development/index.html) for a live preview.
 
 ## Authors
 
