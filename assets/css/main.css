@@ -90,6 +90,44 @@ body {
 .grid-article-publicity {
   grid-column: span 2;
   border: 1px solid black;
+  padding: 1%;
+}
+
+.publicity-container {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.publicity-image {
+  flex-basis: 211px;
+  min-width: 30%;
+  margin-top: 1em;
+}
+
+.publicity-container h2 {
+  font-size: 40px;
+  text-decoration: underline;
+  padding: 3% 0;
+}
+
+.publicity-container p {
+  font-size: 17px;
+  max-width: 75%;
+  text-align: center;
+  font-family: Elena, Arial, Helvetica, sans-serif;
+  line-height: 2em;
+  margin: 1em 0;
+}
+
+.publicity-container button {
+  font-size: 2em;
+  padding: 0.3em;
+}
+
+.publicity-container p:last-child {
+  margin-bottom: 0;
 }
 
 .link-to-latest {
