@@ -13,6 +13,10 @@
 
 Click [here](https://raw.githack.com/Bismarck-GM/microverse-design-teardown/development/index.html) for a live preview.
 
+## How to use
+
+Download all the files and run index.html
+
 ## Authors
 
 👤 **Gerónimo Morisot**
